@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.logo {
+    color: white;
+    font-size: 150px;
+    font-weight: bold;
+    border-width: 4px;
+    border-color: #4b6cc1;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.frontendimg{
+    height: 500px;
+    width: 800px;
+}
+
+.background {
+    background-color: black;
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+    font-size: 60px;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-size: 47px;
+}
+
+
+.contactmebutton{background-color:transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #9aa5b1;
+}
+
+
+
+
+.aboutmebackground {
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.facts {
+    color: #cced00;
+}
+
+.myimg {
+    width: 100%;
+        height:470px;}
+
+.aboutme {
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.mydescription {
+    color: #9aa5b1;
+}
+
+.skillsimg {
+    height: 64px;
+    width: 64px;
+    margin: 10px;
+    margin:10px
+}                                             
+
+.skillsbackground {
+    background-color: #1f2933;
+}
+
+.skillsimgbg {
+    background-color: #323f4b;
+    padding: 10px;
+    border-radius: 8px;
+
+
+}
+
+.skills {
+    color: #cced00
+}
+
+.skillhead {
+    color: white;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+
+
+
+
+.projectsbg {
+    background-color: #3e4c59;
+}
+
+.projectdonebg {
+    background-color: #323f4b;
+    border-radius: 5px;
+}
+
+.portfolio {
+    color: #cced00;
+}
+
+.Projectsdoneheading1 {
+    color: white;
+    font-size: 50px;
+
+}
+
+.Projectsdoneheading2 {
+    color: white;
+
+}
+.projectbanner{
+    width: 100%;
+    height: 230px;
+
+}
+.projectpara {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.domain {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.readmorebutton {
+    background-color: transparent;
+    border-width: 0px;
+}
+
+
+.bg-services {
+    background-color: #52606d;
+}
+
+.webdesigncard {
+    background-color: #323f4b;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.domainlogo {
+    height: 50px;
+    width: 50px;
+    margin:10px
+}
+
+.sevicescolour {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.serviceheading {
+    color: white;
+    font-weight: bold;
+}
+
+.servicespara {
+    color: #9aa5b1;
+    font-size:30px;
+}
+
+
+
+
+
+.bg-works-done {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.white {
+    color: white;
+}
+
+.hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.forntawsome {
+    font-size: 70px;
+}
+
+
+
+.contactfootersection {
+    background-color: #0d2436;
+}
+
+.contactimg {
+    height: 80px;
+    width: 90px;
+    border-radius: 60px;
+}
+
+h4 {
+    color: yellow;
+    font-size: 5px;
+}
+
+.fontlogo {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.footercopyright {
+    background-color: #001c32;
+}
+
+p {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+span {
+    color: #9aa5b1;
+    font-size: 15px;
+}
